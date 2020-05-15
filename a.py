@@ -1,1 +1,1 @@
-prinnnt ("Created from git")
+print ("Created from git")
